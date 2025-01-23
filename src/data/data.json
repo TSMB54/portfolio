@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "PROJET 1, WILD EATS",
+      "url": "https://github.com/abdoukhoudoss/Wild-eats",
+      "description": "Wild Eats est une application web développée en HTML, CSS et JavaScript, réalisée en équipe de 4 sur 3 semaines. // Elle répertorie les restaurants autour de notre école avec un système de tri (prix, note, distance) et de filtrage (type de cuisine). // **Fonctionnalités clés** : section promotions en cours, fiches détaillées (photos, prix, horaires, notes, livraison). // Les données sont extraites d’un fichier local *data.js*, et l’interface est pensée pour une navigation intuitive. // Ce projet a renforcé nos compétences en manipulation DOM, gestion d’événements et structuration JavaScript.",
+      "nameLink": "voir le projet",
+      "image": "https://www.macreationdentreprise.fr/wp-content/uploads/2022/05/exemple-business-plan-restaurant-1.webp",
+      "secondImage":"../src/assets/img/P1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PROJET 2, CINEWILD",
+      "url": "https://github.com/WildCodeSchool-2024-09/toulouse-p2-cinewild",
+      "description": "CinéWild est une application web React en TypeScript, conçue en équipe de 4 personnes sur 1 mois. // Elle permet de découvrir, rechercher et trier des films en utilisant l’API The Movie Database (TMDb). // Fonctionnalités clés : filtres par genre, année, popularité ; recherche via barre dédiée ; gestion des favoris (persistance jusqu’au rafraîchissement). // Application dynamique et responsive, construite en SPA, avec gestion des états via useState, useEffect et Context API. // Design soigné avec mode clair/sombre et navigation intuitive (menu burger). // Ce projet a consolidé nos compétences en React, TypeScript et intégration API.",
+      "nameLink": "voir le projet",
+      "image":"https://www.ville-boulogne-sur-mer.fr/images/votre-mairie/grands-projets/cinema-megarama/cinema-megarama-1.jpg",
+      "secondImage":"../src/assets/img/P2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PROJET 3, JESTONE",
+      "url": "https://github.com/WildCodeSchool-2024-09/js-toulouse-origins-digital",
+      "description": "Jestone est une application web en cours de production axée sur les vidéos de gaming, développée avec React, Express, SQL et TypeScript. // Côté Admin : gestion complète du contenu (vidéos, catégories, carrousels, etc.). // Côté Utilisateur : navigation intuitive, création de playlists, favoris, recherche avancée. // Fonctionnalités clés : base de données relationnelle (utilisateurs, vidéos, favoris, playlists), gestion des rôles (is_admin), intégration vidéo avec miniatures et vues, API REST pour les opérations CRUD. // Technologies : frontend responsive avec React Router, Context API, backend Express, SQL normalisé, typage TypeScript. // Objectif : offrir une expérience fluide et devenir une référence pour les amateurs de gaming.",
+      "nameLink": "voir le projet",
+        "image":"https://cdn.prod.website-files.com/63af1964cee58c25c01c102f/64abc8f902889bf1cfc71428_cybersports-gamers-playing-online-games-2022-08-25-19-08-12-utc-min.jpg",
+        "secondImage":"../src/assets/img/P3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "CE PORTFOLIO",
+      "url": "https://github.com/TSMB54/Portfolio",
+      "description": "Portfolio React et Vite.js développé en TypeScript en 20-25h, conçu pour une présentation professionnelle. // Fonctionnalités : navigation intuitive, présentation de projets dynamiques basés sur un fichier JSON, // section Contact pour un accès rapide aux réseaux (GitHub, LinkedIn, WhatsApp). // Utilité pro : idéal pour valoriser des compétences en développement web full-stack (React, Node.js, DevOps), // démonstration de gestion de composants réactifs, typage strict avec TypeScript et design soigné adapté à des clients ou recruteurs. // Performance : structure optimisée (Vite.js), chargement rapide, responsive design.",
+      "nameLink": "voir le projet",
+        "image":"https://static.vecteezy.com/system/resources/previews/013/087/516/non_2x/diagonal-golden-line-glass-cube-on-black-background-illustration-of-website-banner-poster-sign-corporate-business-social-media-post-billboard-agency-advertising-media-motion-video-animation-wave-vector.jpg"
+    },
+    {
+      "id": 5,
+      "name": "CONTACT",
+      "url": "",
+      "description": "Tom Schricke // Adresse : 28 Avenue de Mazades, 31200 Toulouse // Tél. : +33 7 65 85 05 85 // Date de naissance : 15/12/1999 (24 ans) // E-mail : tom.schricke@gmail.com // // Liens : // GitHub : https://github.com/TSMB54 // LinkedIn : https://www.linkedin.com/in/tom-schricke/ // WhatsApp : https://wa.me/33765850585",
+      "image":"https://www.shutterstock.com/image-illustration/telephone-envelope-letter-email-symbols-600nw-1784113403.jpg"
+    },
+    {
+      "id": 6,
+      "name": "MES COMPETENCES",
+      "url": "",
+      "description": " Langues : Français (natif), Anglais (intermédiaire) // Compétences sociales : Leadership, gestion d'équipes, communication, résolution de problèmes, esprit d’équipe, adaptabilité // Compétences techniques : // Backend : Node.js, Express, MySQL, MongoDB // Frontend : JavaScript, HTML, CSS, React // Outils : Git, GitHub, Agile/Scrum, intégration continue // Maîtrise de Linux.",
+      "image":"https://www.shutterstock.com/image-photo/banner-hands-open-icon-work-600nw-2318904339.jpg"
+    },
+    {
+      "id": 7,
+      "name": "MES AMBITIONS",
+      "url": "",
+      "description": "Mon objectif est de devenir un développeur web full-stack confirmé, en combinant mes compétences en développement avec mon expérience en gestion d'équipes. Je cherche à évoluer dans un environnement stimulant où je pourrais contribuer à des projets innovants, tout en poursuivant ma reconversion professionnelle. Passionné par l'automatisation et l'optimisation des processus, je vise à intégrer un poste DevOps en alternance ou stage pour enrichir mes compétences et participer activement au développement de solutions technologiques performantes.",
+      "image":"https://www.shutterstock.com/image-illustration/aim-high-golden-arrow-ambition-260nw-2360589043.jpg"
+    },
+    {
+      "id": 8,
+      "name": "MON CV",
+      "url": "../src/assets/cv.pdf",
+      "description": "Développeur web full-stack en reconversion, avec une solide expérience en gestion d’équipes et optimisation des performances. Ancien chef d’entreprise dans la restauration, je me spécialise désormais en développement backend (Node.js, Express, SQL), et je maîtrise les langages front-end (HTML, CSS, JavaScript, React). Actuellement en formation à la Wild Code School, je cherche un poste en DevOps pour mettre en pratique mes compétences techniques et mon esprit d’analyse dans un environnement dynamique.",
+      "nameLink": "voir le CV",
+      "image":"https://media.istockphoto.com/id/852236062/vector/vector-dark-original-minimalist-cv-resume-template.jpg?s=1024x1024&w=is&k=20&c=KDeNjJ5EBqJ4vlPLJ0cmsc_8e9gZhVhh78Uu4YUjqtc="
+    }
+    
+  ]
+}
